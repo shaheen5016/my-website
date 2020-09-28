@@ -1,0 +1,140 @@
+.header{
+    
+    background-color: rgb(148, 148, 207);
+}
+.head strong{
+    font-size: 30px;
+    padding: 0 10px;
+    margin-top: 10px;
+    color: rgb(15, 123, 247);
+}
+.fixd{
+    max-width: 1270px;
+    margin: auto;
+}
+
+.menu{}
+.menu ul{}
+.menu ul li{
+    display: inline-block;
+}
+.menu ul li a{
+    font-size: 20px;
+    display: block;
+    padding: 0px 41px;
+    margin-top: 5px;
+    border-right: 1px solid #ddd;
+    line-height: 52px;
+    margin-right: -3px;
+    color: #fff;
+    transition: .4s;
+    text-decoration: none;
+}
+.btn{
+    margin-top: 10px;
+}
+.menu ul li a:hover{
+    background-color:rgb(32, 81, 216);
+}
+.ban{
+    background: url(img/images\ \(1\).jpg) no-repeat center center;
+    background-size: cover;
+    padding: 200px 0;
+}
+.h3{
+    max-width: 369px;
+    color: #fff;
+    font-size: 2rem;
+    padding: 13px 29px;
+    border-radius: 10px;
+    margin: auto;
+    background-color: rgb(182, 179, 174);
+}
+.h4{
+    color: #fff;
+    max-width: 400px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: 2rem;
+    margin: auto;
+    background-color: rgb(182, 179, 174);
+
+}
+.row span{
+    font-size: 30px;
+    font-weight: 500;
+}
+input{
+    margin-top: 25px;
+    margin-left: 20px;
+    padding: 10px 20px;
+    width: 70%;
+    border: none;
+    background-color: rgb(219, 198, 198);
+}
+select{
+    margin: 20px;
+}
+.clo{
+    width: 40%;
+}
+.nam img{
+    max-width:90%;
+    margin: auto;
+    padding: 10px 20px;
+
+}
+.cnm h4{
+    font-size: 30px;
+
+}
+.nam span{
+    font-size: 15px;
+
+}
+.nam{
+    background-color: rgb(255, 249, 249);
+    width: 23%;
+    margin-right: 2%;
+    border-radius: 10px;
+    box-shadow: 1px rgb(226, 223, 223);
+    margin-top: 60px;
+}
+.shopna img{
+    width: 100%;
+    padding: 40px 20px;
+    margin-top:40px;
+
+}
+.h3{
+    max-width: 510px;
+    margin-bottom: 20px;
+    background-color:rgb(255, 249, 249) ;
+    color: black;
+}
+.nana img{
+    width: 70%;
+    height: 1000px;
+
+}
+ol{
+    margin-top: 20px;
+}
+ol li{
+    display: block;
+    font-size: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: rgb(236, 232, 225);
+    margin-top: 10px;
+    padding: 10px 10px;
+
+}
+
+
+
+marquee{
+    font-size: 30px;
+    color: rgb(19, 15, 15);
+    background-color: rgb(161, 146, 146);
+}
